@@ -1,0 +1,8 @@
+algoliasearch-django>=3.0,<4.0
+django>=4.0.0,<4.1.0
+pyyaml
+djangorestframework
+requests
+django-cors-headers
+djangorestframework-simplejwt
+python-dotenv
